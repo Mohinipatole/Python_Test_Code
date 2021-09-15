@@ -1,0 +1,9 @@
+
+git push 'remote_name' 'branch_name'
+In this tutorial, you'll be looking two different ways to PUSH to GitHub.
+
+Using Command line to PUSH to GitHub
+1. Creating a new repository.
+
+You need to create a new repository and click on the plus sign.
+Fill up all the required details, 

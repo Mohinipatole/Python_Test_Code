@@ -8,7 +8,7 @@ Type "copyright", "credits" or "license()" for more information.
 >>> import os
 >>> ##get current working dirctory(CWD)
 >>> print(" current working directory:",cwd)
-
+#jn23657
 Traceback (most recent call last):
   File "<pyshell#7>", line 1, in <module>
     print(" current working directory:",cwd)
@@ -20,13 +20,7 @@ NameError: name 'cwd' is not defined
 (' current working directory:', 'C:\\Python27')
 >>> 
 >>> 
->>> 
->>> 
->>> 
->>> 
->>> 
 
->>> 
 >>> #changing the current directory
 >>> import os
 >>> # function to get the current working directory

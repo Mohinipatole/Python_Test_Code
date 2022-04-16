@@ -4,6 +4,7 @@ Type "copyright", "credits" or "license()" for more information.
 >>> # que 1: write python program to add two numbers.
 >>> a =10
 >>> b =20
+#hi
 >>> print("addition of two no a & b", a+b)
 ('addition of two no a & b', 30)
 >>> 

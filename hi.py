@@ -7,7 +7,10 @@ Type "copyright", "credits" or "license()" for more information.
 #hi
 >>> print("addition of two no a & b", a+b)
 ('addition of two no a & b', 30)
->>> 
+>>> 123456
+789456
+
+
 >>> 
 >>> # que 2: write a python program to find reminder when a number is divided by 2
 >>> a=30
